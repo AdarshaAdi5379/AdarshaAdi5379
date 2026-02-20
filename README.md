@@ -1,6 +1,7 @@
 # 💫 About Me:
-I build full-stack applications and platform systems focused on automation, scalability, and clean architecture.<br><br>My work combines frontend engineering, backend APIs, and cloud deployment to deliver production-ready solutions.<br><br>I enjoy designing systems that reduce manual work through Docker, CI/CD, and reusable service structures.<br><br>I have experience building multi-tenant platforms, analytics dashboards, and real-time monitoring tools.<br><br>I like working across the stack — from React interfaces to Django/Node backends and infrastructure workflows.<br><br>I’m interested in building practical systems that solve real operational problems rather than just demo projects.
-
+Software engineer focused on building scalable full-stack applications, automated deployment workflows, and
+containerized platform systems. Experienced in multi-tenant architecture, cloud integrations, and developer
+tooling that improve reliability and operational efficiency.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/adarshakk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Adarshakk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IGRIS5389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshakk1234@gmail.com) 
